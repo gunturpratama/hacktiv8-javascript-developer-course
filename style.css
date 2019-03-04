@@ -1,0 +1,26 @@
+h1 {
+  font-size: 32px;
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+.text-green {
+  color: green;
+}
+
+#title {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#alamat {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.form-group {
+  margin-top: 100px;
+  text-align: center;
+}
